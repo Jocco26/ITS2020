@@ -1,5 +1,5 @@
 <?php
-
+/*
 include('config.php');
 
 $facebook_output = '';
@@ -94,7 +94,7 @@ else
     </nav>';
 }
 
-
+*/
 
 ?>
 
